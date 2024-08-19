@@ -13,8 +13,8 @@ function addPost() {
     }
 }
 function Home(){
-    location.href = '/Home.htm';
+    location.href = '/par/Home.htm';
 }
 function aco(){
-    location.href = '/aco.html';
+    location.href = '/par/aco.html';
 }
